@@ -1,1 +1,1 @@
-# life_github
+This is about my project
